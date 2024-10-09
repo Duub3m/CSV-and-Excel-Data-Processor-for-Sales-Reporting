@@ -1,0 +1,1 @@
+This Python script reads product sales data from a CSV file, processes the data, and calculates the total revenue for each product by multiplying the quantity and price. The script outputs the results to a new CSV file for further analysis, such as in Excel.
